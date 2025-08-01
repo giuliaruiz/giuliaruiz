@@ -1,6 +1,6 @@
-🙋🏻 Olá, me chamo Giulia Ruiz e e tenho 20 anos de idade
+🙋🏻 Olá, me chamo Giulia Ruiz e e tenho 21 anos de idade
 
-👩🏻‍💻 Atualmente atuo como QA na GBM Tech & Control
+👩🏻‍💻 Atualmente atuo como Analista de QA na GBM Tech & Control
 
 💻 Tenho conhecimento em Javascript e uso Cypress para automação de testes
 
